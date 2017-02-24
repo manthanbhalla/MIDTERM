@@ -51,3 +51,6 @@ C:\Users\iqor\midterm\Comp1004-midterm-master\COMP1004-W2017-MidTermAssgnment-St
 C:\Users\iqor\midterm\Comp1004-midterm-master\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004_W2017_MidTermAssgnment_StudentID.Properties.Resources.resources
 C:\Users\iqor\midterm\Comp1004-midterm-master\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004_W2017_MidTermAssgnment_StudentID.RaceForm.resources
 C:\Users\iqor\midterm\Comp1004-midterm-master\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.csproj.GenerateResource.Cache
+C:\Users\iqor\Desktop\midterm\Comp1004-midterm-master\COMP1004-W2017-MidTermAssgnment-StudentID\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe.config
+C:\Users\iqor\Desktop\midterm\Comp1004-midterm-master\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe
+C:\Users\iqor\Desktop\midterm\Comp1004-midterm-master\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.pdb

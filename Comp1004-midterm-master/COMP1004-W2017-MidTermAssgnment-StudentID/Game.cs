@@ -24,6 +24,6 @@ namespace COMP1004_W2017_MidTermAssgnment_StudentID
 
         public string Health { get; set; }
 
-        public string Job { get; set; }
+        public string JOB { get; set; }
     }
 }
